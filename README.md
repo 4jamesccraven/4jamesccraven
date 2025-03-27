@@ -52,7 +52,7 @@ I am soon-to-be college graduate with a bachelor's in Data Science and Spanish. 
     />
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=mkdev"
-      height="150"
+      width="350"
     />
   </picture>
   <picture>
@@ -66,7 +66,7 @@ I am soon-to-be college graduate with a bachelor's in Data Science and Spanish. 
     />
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=dsci-research-for-ADAPT-in-SC"
-      height="150"
+      width="350"
     />
   </picture>
   <picture>
@@ -80,7 +80,7 @@ I am soon-to-be college graduate with a bachelor's in Data Science and Spanish. 
     />
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=nixos-configs"
-      height="150"
+      width="350"
     />
   </picture>
   <picture>
@@ -94,7 +94,7 @@ I am soon-to-be college graduate with a bachelor's in Data Science and Spanish. 
     />
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=taj_mahal"
-      height="150"
+      width="350"
     />
   </picture>
 </div>
