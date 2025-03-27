@@ -1,5 +1,5 @@
 # About Me
-I am soon-to-be college graduate with a bachelor's in Data Science and Spanish. I love all things language, FOSS, and programming.
+Soon-to-be college graduate with a bachelor's in Data Science and Spanish. I love all things language, FOSS, and programming.
 
 ## Contact Me
 - **Email**: 4jamesccraven@gmail.com
