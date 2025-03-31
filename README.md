@@ -41,62 +41,70 @@ Soon-to-be college graduate with a bachelor's in Data Science and Spanish. I lov
 
 ## Projects (and my Dotfiles)
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=mkdev"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_latte&title_color=7287fd&description_lines_count=2&repo=mkdev"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=mkdev"
-      width="350"
-    />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=dsci-research-for-ADAPT-in-SC"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_latte&title_color=7287fd&description_lines_count=2&repo=dsci-research-for-ADAPT-in-SC"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=dsci-research-for-ADAPT-in-SC"
-      width="350"
-    />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=nixos-configs"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_latte&title_color=7287fd&description_lines_count=2&repo=nixos-configs"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=nixos-configs"
-      width="350"
-    />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=taj_mahal"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_latte&title_color=7287fd&description_lines_count=2&repo=taj_mahal"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=taj_mahal"
-      width="350"
-    />
-  </picture>
+  <a href="https://github.com/4jamesccraven/mkdev">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=mkdev"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_latte&title_color=7287fd&description_lines_count=2&repo=mkdev"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=mkdev"
+        width="350"
+      />
+    </picture>
+  </a>
+  <a href="https://github.com/4jamesccraven/dsci-research-for-ADAPT-in-SC"
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=dsci-research-for-ADAPT-in-SC"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_latte&title_color=7287fd&description_lines_count=2&repo=dsci-research-for-ADAPT-in-SC"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=dsci-research-for-ADAPT-in-SC"
+        width="350"
+      />
+    </picture>
+  </a>
+  <a href="https://github.com/4jamesccraven/nixos-configs">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=nixos-configs"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_latte&title_color=7287fd&description_lines_count=2&repo=nixos-configs"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=nixos-configs"
+        width="350"
+      />
+    </picture>
+  </a>
+  <a href="https://github.com/4jamesccraven/taj_mahal">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=taj_mahal"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_latte&title_color=7287fd&description_lines_count=2&repo=taj_mahal"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=taj_mahal"
+        width="350"
+      />
+    </picture>
+  </a>
 </div>
 
 
