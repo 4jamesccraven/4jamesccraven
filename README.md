@@ -105,6 +105,22 @@ College graduate with a bachelor's in Data Science and Spanish. I love all thing
       />
     </picture>
   </a>
+  <a href="https://github.com/4jamesccraven/CPR"
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=CPR"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_latte&title_color=7287fd&description_lines_count=2&repo=CPR"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&description_lines_count=2&repo=CPR"
+        width="350"
+      />
+    </picture>
+  </a>
 </div>
 
 
