@@ -23,17 +23,20 @@ College graduate with a bachelor's in Data Science and Spanish. I love all thing
     />
   </picture>
   <picture>
-    <!-- I hide Jupyter Notebooks because they aren't really a language per se, and they overshadow what I actually spend time doing due to their abhorrent commit size -->
+    <!-- I hide the following languages for these reasons: -->
+    <!-- LaTeX: It's not really a programming language, and the fact that it is text means there are more lines, so it is skewed -->
+    <!-- Vim Script: Also not really a language, nor is it something I actually use for anything, all my nvim configs are pure lua -->
+    <!-- Jupyter Notebook: This format is not made for git, and the few notebooks I have makes it seem like they're all that I do. They are simply too big, and again, not a language -->
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&layout=compact&hide=jupyter%20notebook,tex,vim%20script&count_weight=0.5"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=4jamesccraven&theme=catppuccin_latte&title_color=7287fd&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=4jamesccraven&theme=catppuccin_latte&title_color=7287fd&layout=compact&hide=jupyter%20notebook,tex,vim%20script&size_weight=0.5&count_weight=0.5"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=4jamesccraven&theme=catppuccin_mocha&title_color=cba6f7&layout=compact&hide=jupyter%20notebook,tex,vim%20script&size_weight=0.5&count_weight=0.5"
       height="150"
     />
   </picture>
